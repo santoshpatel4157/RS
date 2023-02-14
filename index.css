@@ -66,6 +66,8 @@ header {
 }
 
 nav {
+  background-color: #444b5e;
+
   display: flex;
   justify-content: space-between;
   padding: 1rem;
